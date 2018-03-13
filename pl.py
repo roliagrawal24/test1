@@ -4,7 +4,7 @@ chars = '''ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,./;'[]
 times = int(input('[.]Number of passwords?\n[.]'))
 length = int(input('[.]Password length?\n[.]'))
 
-f = open('password.txt','w')
+f = open('password.txt asdadshajsdkajdskahskd','w')
 
 for i in range(times):
 	password = ''
