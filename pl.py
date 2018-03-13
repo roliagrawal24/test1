@@ -15,6 +15,12 @@ for i in range(times):
 	for j in range(length):
 		password += random.choice(chars)
 
+
+
+SPURSSSSSS
+
+
+
 	print('[.]',password,sep='')
 	
 	
